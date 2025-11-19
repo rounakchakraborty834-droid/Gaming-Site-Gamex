@@ -1,0 +1,1 @@
+import{a as o,e as a,o as s,c as e,u as d,f as t}from"./entry.3ad1dc26.js";import{I as n}from"./download.74200597.js";const c=t(o({__name:"icon-download",props:{},emits:[],setup:(o,{emit:t})=>(a(),(o,a)=>(s(),e(d(n),{class:"icon-download icon-deep"})))}),[["__scopeId","data-v-83c5041f"]]);export{c as default};
