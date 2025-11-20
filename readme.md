@@ -11,9 +11,6 @@
 
 ---
 
-### 🔗 **Live Demo**
-👉 **https://kprverse.com/**
-
 </div>
 
 ---
